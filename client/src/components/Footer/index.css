@@ -1,0 +1,17 @@
+.footer{
+    margin: 30px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.foot{
+    color:#51545f   ;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 10px;
+}
+.web{
+    cursor: pointer;
+    display: flex;
+    margin-left: 20px;
+}

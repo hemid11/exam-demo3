@@ -1,0 +1,143 @@
+#first {
+  height: 700px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url("https://preview.colorlib.com/theme/coloshop/images/slider_1.jpg.webp");
+  background-position: 50% 50%;
+}
+.fir {
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50%;
+}
+.fir button {
+  margin-top: 30px;
+  color: white;
+  background-color: red;
+  height: 40px;
+  width: 140px;
+  min-height: auto;
+  min-width: auto;
+}
+.fir h1 {
+  color: #282828;
+  height: 144px;
+  font-size: 72px;
+  width: 666px;
+  margin: 0 0 8px 0;
+}
+#second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img {
+    background-image: url('https://preview.colorlib.com/theme/coloshop/images/banner_1.jpg.webp');
+    margin-top: 20px;
+    margin-left: 30px;
+  background-color: #ffffff;
+  color: #1e1e27;
+  height: 265px;
+  width: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.img button{
+    
+    top: 50%;
+font-size: 14px;
+line-height: 23px;
+text-decoration: none solid rgb(30, 30, 39);
+text-align: center;
+word-spacing: 0px;
+    height: 50px;
+width: 180px;
+padding: 0 25px 0 25px;
+min-height: auto;
+min-width: 180px;
+}
+.img1 {
+    background-image: url('https://preview.colorlib.com/theme/coloshop/images/banner_2.jpg.webp');
+    margin-top: 20px;
+    margin-left: 30px;
+  background-color: #ffffff;
+  color: #1e1e27;
+  height: 265px;
+  width: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.img1 button{
+    top: 50%;
+font-size: 14px;
+line-height: 23px;
+text-decoration: none solid rgb(30, 30, 39);
+text-align: center;
+word-spacing: 0px;
+    height: 50px;
+width: 180px;
+padding: 0 25px 0 25px;
+min-height: auto;
+min-width: 180px;
+}
+.img2 {
+    background-image: url('https://preview.colorlib.com/theme/coloshop/images/banner_3.jpg.webp');
+    margin-top: 20px;
+    margin-left: 30px;
+  background-color: #ffffff;
+  color: #1e1e27;
+  height: 265px;
+  width: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+.img2 button{
+    top: 50%;
+font-size: 14px;
+line-height: 23px;
+text-decoration: none solid rgb(30, 30, 39);
+text-align: center;
+word-spacing: 0px;
+    height: 50px;
+width: 180px;
+padding: 0 25px 0 25px;
+min-height: auto;
+min-width: 180px;
+}
+#third{display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+height: auto;}
+.price{
+    color: red;
+}
+.price del{
+    margin-left: 10px;
+    color: #b5aec4;
+}
+#fourth{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#fourth h1{
+    font-size: 40px;
+}
